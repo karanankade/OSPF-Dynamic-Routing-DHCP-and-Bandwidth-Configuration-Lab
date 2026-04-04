@@ -1,4 +1,3 @@
-# OSPF-Dynamic-Routing-DHCP-and-Bandwidth-Configuration-Lab
 # OSPF Dynamic Routing, DHCP and Bandwidth Configuration Lab Report
 
 ## 1. Aim
